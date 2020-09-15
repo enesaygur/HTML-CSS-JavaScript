@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     font-family:'Roboto',sans-serif;
     line-break: 1.4;
@@ -214,7 +218,7 @@ p{
     display: block;
     margin: auto;
     width: 60%;
-    padding: 2rem;
+
 }
 
 /*Section: Content*/
